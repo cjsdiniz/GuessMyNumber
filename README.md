@@ -1,1 +1,2 @@
-# JS2022Proj1
+# Guess My Number
+## A JS Game project
